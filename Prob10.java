@@ -2,6 +2,7 @@
 
 http://www.codeabbey.com/index/task_view/linear-function
 
+
 Problem:
 	Given two points, derive the linear function that runs through the two points.
 	
